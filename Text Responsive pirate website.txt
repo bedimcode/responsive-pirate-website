@@ -1,0 +1,18 @@
+========== HEADER ==========
+.nav__logo
+PISHIP
+
+.nav__link
+HOME - EXPLORE - CARIBBEAN- CONTACT
+
+
+========== HOME ==========
+.home__subtitle
+NEW PIRATE
+
+.home__title
+<span>LEGEND OF</span> <br>
+THE SEAS
+
+.home__button
+EXPLORE NOW
